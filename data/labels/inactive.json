@@ -1,0 +1,7 @@
+[
+  { "name": "inactive/duplicate", "color": "#cccccc" },
+  { "name": "inactive/on-hold", "color": "#cccccc" },
+  { "name": "inactive/by-design", "color": "#cccccc" },
+  { "name": "inactive/invalid", "color": "#cccccc" },
+  { "name": "inactive/abandoned", "color": "#cccccc" }
+]

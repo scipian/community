@@ -1,0 +1,8 @@
+[
+  { "name": "blocked/documentation", "color": "#ffa500" },
+  { "name": "blocked/development", "color": "#ffa500" },
+  { "name": "blocked/design", "color": "#ffa500" },
+  { "name": "blocked/test", "color": "#ffa500" },
+  { "name": "blocked/rfc", "color": "#ffa500" },
+  { "name": "blocked/cla", "color": "#ffa500" }
+]

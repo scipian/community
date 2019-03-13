@@ -1,0 +1,6 @@
+[
+  { "name": "status/accepted", "color": "#c2e0c6" },
+  { "name": "status/ready", "color": "#c2e0c6" },
+  { "name": "status/assigned", "color": "#c2e0c6" },
+  { "name": "status/done", "color": "#c2e0c6" }
+]

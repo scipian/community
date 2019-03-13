@@ -1,0 +1,5 @@
+[
+  { "name": "improvement/enhancement", "color": "#c5def5" },
+  { "name": "improvement/refactor", "color": "#c5def5" },
+  { "name": "improvement/optimization", "color": "#c5def5" }
+]

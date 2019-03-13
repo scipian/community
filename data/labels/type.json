@@ -1,0 +1,9 @@
+[
+  { "name": "type/initiative", "color": "#84b6eb" },
+  { "name": "type/epic", "color": "#84b6eb" },
+  { "name": "type/story", "color": "#84b6eb" },
+  { "name": "type/task", "color": "#84b6eb" },
+  { "name": "type/question", "color": "#84b6eb" },
+  { "name": "type/spike", "color": "#84b6eb" },
+  { "name": "type/pull-request", "color": "#84b6eb" }
+]
