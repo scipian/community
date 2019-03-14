@@ -17,6 +17,8 @@ To request a change to the way that Scipian works, please open an issue inside
 the [scipian/rfcs][rfcs] repo and we will be happy to discuss and see if it 
 meets the acceptance criteria for an initiative to be created.
 
+Please use the Feature Request issue template when submitting a feature request.
+
 [rfcs]: https://github.com/scipian/rfcs
 
 ## Bug Reports
@@ -32,29 +34,7 @@ accidentally file a duplicate.
 We would like issues filed in the respective repo the bug belongs to, but if
 you're not sure which repo, default to the [scipian/community][community] repo.
 
-Please include the following in your issue:
-
-```
-<short summary of the bug>
-
-I tried this:
-
-<steps that caused the bug/error>
-
-I expected to see this happen:
-
-<explanation>
-
-Instead, this happened:
-
-<explanation>
-```
-
-These components are necessary in helping figure out what happened:
-
-1. What you did
-2. What you expected
-3. What happened instead
+Please use the Bug Report issue template when submitting a bug. 
 
 [community]: https://github.com/scipian/community
 
