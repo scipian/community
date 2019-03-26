@@ -13,11 +13,8 @@ you can contribute and we appreciate all of them.
 
 ## Feature Requests
 
-To request a change to the way that Scipian works, please open an issue inside 
-the [scipian/rfcs][rfcs] repo and we will be happy to discuss and see if it 
-meets the acceptance criteria for an initiative to be created.
-
-Please use the Feature Request issue template when submitting a feature request.
+To request a change to the way that Scipian works, please follow the process
+documented inside the [scipian/rfcs][rfcs] repo.
 
 [rfcs]: https://github.com/scipian/rfcs
 
