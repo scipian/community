@@ -1,5 +1,5 @@
 [
-  { "name": "type/initiative", "color": "#84b6eb" },
+  { "name": "type/rfc", "color": "#84b6eb" },
   { "name": "type/epic", "color": "#84b6eb" },
   { "name": "type/story", "color": "#84b6eb" },
   { "name": "type/task", "color": "#84b6eb" },
